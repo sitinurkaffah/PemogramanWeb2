@@ -54,8 +54,8 @@
 		</div>
     <div class="col-md-3">
     </div>
-		<div class="col-md-4 daf_harga">
-      <table class="table">
+	<div class="col-md-4 daf_harga">
+      	 <table class="table">
           <tr class="table-primary">
             <td>Daftar Harga</td>
           </tr>
@@ -71,9 +71,9 @@
           <tr class="table-primary">
             <td>Harga Dapat Berubah Setiap Saat</td>
           </tr>
-      </table>
+      	 </table>
    </div>
-  </div>
+  	</div>
   <div class="row">
     <div class="col-md-12">
       
